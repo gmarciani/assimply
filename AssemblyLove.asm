@@ -1,7 +1,7 @@
-# Name: AssemblyLove
-# Description: The program allocates in data segment the array of the first 100 integers multiples of 3.
+# @Name: AssemblyLove
+# @Description: The program allocates in data segment the array of the first 100 integers multiples of 3.
 #
-# Author: Giacomo Marciani <giacomo.marciani@gmail.com>
+# @Author: Giacomo Marciani <giacomo.marciani@gmail.com>
 
 
 .data
