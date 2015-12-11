@@ -1,7 +1,7 @@
-# Name: Fibonacci
-# Description: The program computes the nth Fibonacci's number.
+# @Name: Fibonacci
+# @Description: The program computes the nth Fibonacci's number.
 #
-# Author: Giacomo Marciani <giacomo.marciani@gmail.com>
+# @Author: Giacomo Marciani <giacomo.marciani@gmail.com>
 
 
 .data
