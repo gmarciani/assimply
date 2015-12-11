@@ -1,4 +1,4 @@
-# Name: QuciksortRecursive
+# Name: QuicksortRecursive
 # Description: The program implements the recursive Quicksort algorithm.
 #
 # Author: Giacomo Marciani <giacomo.marciani@gmail.com>
