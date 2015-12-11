@@ -1,7 +1,7 @@
-# Name: SumTwoNumbers
-# Description: The program computes the sum of two numbers stored in registers.
+# @Name: SumTwoNumbers
+# @Description: The program computes the sum of two numbers stored in registers.
 #
-# Author: Giacomo Marciani <giacomo.marciani@gmail.com>
+# @Author: Giacomo Marciani <giacomo.marciani@gmail.com>
 
 
 .text
