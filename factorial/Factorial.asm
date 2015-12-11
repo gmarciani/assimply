@@ -1,7 +1,7 @@
-# Name: Factorial
-# Description: The program computes the factorial of N.
+# @Name: Factorial
+# @Description: The program computes the factorial of N.
 #
-# Author: Giacomo Marciani <giacomo.marciani@gmail.com>
+# @Author: Giacomo Marciani <giacomo.marciani@gmail.com>
 
 
 .data
